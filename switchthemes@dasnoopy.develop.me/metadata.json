@@ -1,0 +1,7 @@
+{
+	"name": "SwitchThemes",
+	"description": "Switch between current themes to Adwaita default and viceversa",
+	"uuid": "switchthemes@dasnoopy.develop.me",
+	"url": "https://github.com/dasnoopy/gnome-extensions",
+	"shell-version": ["3.36"]
+}
