@@ -1,15 +1,10 @@
-/* Uptime Indicator
+/*Switch Themes
  *
- * gnome-shell extension that indicates uptime in status area.
- * Loosely based on lapi's Uptime extension:
- *    https://extensions.gnome.org/extension/312/uptime/
+ * gnome-shell extension that switch themes from custom to ADWAITA and viceversaa.
+ * Based on similar extension that switch between light and dark theme
  *
- * Author: Gniourf, gniourfgniourf@gmail.com
- * Date: 2012-20-10
- *
- * Changes:
- *    2014-05-10: moved style to css and added Clutter to vertically align the
- *    St.Label (thanks to varunoberoi)
+ * Author: Andrea Antolini
+ * 
  */
 
 'use strict';
