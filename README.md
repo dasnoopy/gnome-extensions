@@ -20,6 +20,8 @@ default theme is set to ADWAITA for gtk2/3, cursor,icons and shell theme
 
 **how extensions should work to fits my needs:**
 
+Please note that my programming skills in JS are near to zero.. so this wishlist probbaly will be never implemented
+
 1) click on icon: a popupover should show current themes settings
 2) a button SWITCH to ADWAITA change theme to ADWAITA
 3) in the mean time the button label change to "RESTORE my theme" or something like that
@@ -27,6 +29,9 @@ default theme is set to ADWAITA for gtk2/3, cursor,icons and shell theme
 5) if current theme change in the meantime, extension should detect this change e
 
 **What it does now**
+
+(just because I was able to assemble pieces of codes from other similar extensions  :-)
+
 1) first click on extension APPLY Adwaita themes
 2) second click on extension APPLY original custom theme settings
 3) goto  point 1
